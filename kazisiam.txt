@@ -1,0 +1,92 @@
+1st class (8-6)
+
+web design and development for freelancing level 3 
+cs- competency standard
+
+html  structural language
+code editor list nad icon
+
+1. Vs code
+2. Brackets
+3. Sublime Text
+4. Code Blocks 
+
+<> opening tag 
+</> closing tag 
+
+what is html?
+HTML is the standard markup language for creating Web pages
+
+
+What is elements?
+Ang tag starting to end everything is called elenents
+
+
+
+
+2nd class (9-6)
+
+.html, .css, .js its called extension
+
+There are 3 types of css
+1. inline css
+2. internal css
+3. external css
+
+color:red;  color is called property   and red is value
+
+CSS PROPERTY
+color, background-color, text-align, font-size, font-family, margin, padding, 
+
+Margin take space from outside
+Padding take space from inside
+
+
+h1{     -> this is called CSS selector
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
