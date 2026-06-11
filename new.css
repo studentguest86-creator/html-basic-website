@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.new{
+    background-color: cornflowerblue;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around; 
+    align-items:center ;
+    flex-wrap: wrap;
+    padding: 10px;
+    /* justify-content: space-evenly;  */
+    /* justify-content: space-between;  */
+}
+
+.col2 ul li{
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.col2 ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.col3 button{
+    background-color: aliceblue;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.back{
+    background: url("pic/unipic/uni3.webp");
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+
+.row-about{
+    display: flex;
+    padding: 50px;
+    gap: 30px;
+}
+
+.col-about{
+    flex: 1;
+}
+
+.col-about1{
+    flex: 1;
+}
+
+.col-about img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

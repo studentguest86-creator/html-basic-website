@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.row{
+    display: flex;
+    
+}
+.col{
+    margin: 20px 30px;
+    border: 1px solid violet;
+    padding: 5px;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+.colButton{
+    background-color: blueviolet;
+    color: wheat;
+    margin: 8px 5px;
+    padding: 5px;
+}
+
+.colImg{
+    height: 200px;
+    width: 230px;
+}
+
+.rowDetail{
+    display: flex;
+    margin: 10px;
+}
+
+.colDetail1{
+    margin: 10px;
+}
+
+.colDetailP{
+    margin: 20px 10px;
+    font-size: 20px;
+    color: violet;
+}
+
+.colDetail2{
+    background-color: aquamarine;
+    margin: 10px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

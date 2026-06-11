@@ -1,3 +1,21 @@
+@DICT@2024@  wifi password
+
+All tab link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1st class (8-6)
 
 web design and development for freelancing level 3 
@@ -49,14 +67,24 @@ h1{     -> this is called CSS selector
 
 
 
+3rd class (10-6)
+
+# jei name e file name, oi name e css file
+
+# Div is called block element
+
+# header and footer is common in every website
+
+# text-align:justify means all equal
 
 
 
 
 
-
-
-
+4th class
+there are two types of list .
+1. Order list (have serial number or alphabet)
+2. Unorder list (no serial number)
 
 
 

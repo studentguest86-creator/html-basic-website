@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+}
+
+.heading{
+    background-color: bisque;
+    color: cadetblue;
+    padding: 5px;
+    text-align: center;
+}
+
+.row{
+    margin: 10px;
+}
+
+.col{
+    border: 1px solid bisque;
+    margin: 10px;
+    background-color: chocolate;
+    color: wheat;
+    padding: 5px;
+}
+
+.col p{
+    text-align: justify;
+    padding: 5px;
+}
+
+.col button{
+    margin: 10px 1px;
+    padding: 8px;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+.col h1{
+    color: brown;
+    margin: 10px 1px;
+}
+
+ul{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+

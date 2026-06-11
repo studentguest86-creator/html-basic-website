@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.new{
+    background-color: cornflowerblue;
+    padding: 40px 50px;
+}
+
+.row{
+    display: flex;
+}
+
+.col{
+    margin: 40px 60px;
+}
+
+.col button{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px 20px ;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+.col h1{
+    color: brown;
+}
+
+.col p{
+    text-align: justify;
+
+}
