@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.back{
+    background: url("pic/unipic/uni1.webp");
+    background-size: cover;
+    background-position: center;
+    min-height: 450px;
+    animation-name: slider;
+    animation-duration:30s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slider{
+    0%{
+        background: url("pic/unipic/uni1.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+    20%{
+        background: url("pic/unipic/uni2.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+    40%{
+        background: url("pic/unipic/uni3.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+    60%{
+        background: url("pic/unipic/uni1.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+    80%{
+        background: url("pic/unipic/uni2.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+    100%{
+        background: url("pic/unipic/uni3.webp");
+        background-size: cover;
+        background-position: center;
+        min-height: 450px;
+        animation-name: slider;
+        animation-duration: 3s;
+    }
+}
+
+
+
+.back2{
+    background-color: chocolate;
+    width: 300px;
+    height: 300px;
+    animation-name: colors;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colors{
+    from{
+        background-color: chocolate;
+        width: 300px;
+        height: 300px;
+    }to{
+        background-color: darkblue;
+        width: 300px;
+        height: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+

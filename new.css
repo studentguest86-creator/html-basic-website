@@ -64,10 +64,39 @@
     object-fit: cover;
 }
 
+.col-about1 button{
+    margin: 10px 1px;
+    padding: 8px;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
 
+.col-about1 h1{
+    margin: 20px 1px;
+    color: blue;
+    background-color: aquamarine;
+}
 
+.dropdown{
+    position: relative;
+}
 
+.dropdown-content{
+    position: absolute;
+    display: none;
+    min-width: 200px;
+    background-color: cornflowerblue;
+    margin: 20px 1px;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
 
+.dropdown-content a{
+    display: block;
+    padding: 10px 5px;
+    padding-left: 20px;
+}
 
 
 

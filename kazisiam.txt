@@ -1,14 +1,16 @@
 @DICT@2024@  wifi password
 
+
+
 All tab link
-
-
-
-
-
-
-
-
+https://www.youtube.com/watch?v=ehMnQfLyowE&t=574s
+http://localhost:5173/
+https://github.com/phptechlife/react-laravel-ecommerce-snippets/blob/main/snippets.txt
+https://react-bootstrap.netlify.app/docs/components/navbar/#scrolling
+https://swiperjs.com/react
+https://gemini.google.com/app/f22c8a2603f5bfe0
+file:///C:/Users/User/Desktop/asiam/website/new.html
+https://github.com/studentguest86-creator/React-frontend-11-06-2026-/settings/access?guidance_task=
 
 
 
@@ -90,10 +92,12 @@ there are two types of list .
 
 
 
+5th class
+css animation property
+amination name, duration, iteration count, direction, 
 
 
-
-
+empty tag: image tag, br tag, input tag, hr tag
 
 
 
