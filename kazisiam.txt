@@ -92,7 +92,7 @@ there are two types of list .
 
 
 
-5th class
+5th class (14-6)
 css animation property
 amination name, duration, iteration count, direction, 
 
@@ -101,6 +101,7 @@ empty tag: image tag, br tag, input tag, hr tag
 
 
 
+6th class(15-6)
 
 
 
