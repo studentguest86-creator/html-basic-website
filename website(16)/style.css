@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-nav{
+    background-color: rgb(101, 255, 152);
+}
+.row-top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+}
+
+.col-top1 i{
+    margin-right: 5px;
+}
+
+.col-top i{
+    margin-right: 5px;
+}
+
+.col-top2 i{
+    margin-right: 8px;
+}
+
+.nav{
+    background-color: cornflowerblue;
+}
+
+.row-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.col-nav2 ul li{
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.col-nav2 ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.col-nav3 button{
+    background-color: beige;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+}
+
+.dropdown{
+    position: relative;
+}
+
+.dropdown-content{
+    position: absolute;
+    display: none;
+    min-width: 200px;
+    background-color: cornflowerblue;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown:hover .dropdown-content a{
+    color: black;
+}
+
+.dropdown-content a:hover{
+    color: aqua;
+    background-color: chocolate;
+}
+
+.dropdown-content a{
+    display: block;
+    padding: 8px 5px;
+    padding-left: 20px;
+}
+
+.back{
+    background: url('pic/unipic/uni1.webp');
+    background-size: cover;
+    background-position: center;
+    min-height: 650px;
+    animation-name: slider;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slider{
+    0%{
+        background: url('pic/unipic/uni1.webp');
+        background-size: cover;
+        background-position: center;
+        min-height: 650px;
+        animation-name: slider;
+        animation-duration: 4s;
+    }
+    33%{
+        background: url('pic/unipic/uni2.webp');
+        background-size: cover;
+        background-position: center;
+        min-height: 650px;
+        animation-name: slider;
+        animation-duration: 4s;
+    }
+    66%{
+        background: url('pic/unipic/uni3.webp');
+        background-size: cover;
+        background-position: center;
+        min-height: 650px;
+        animation-name: slider;
+        animation-duration: 4s;
+    }
+    100%{
+        background: url('pic/unipic/uni2.webp');
+        background-size: cover;
+        background-position: center;
+        min-height: 650px;
+        animation-name: slider;
+        animation-duration: 4s;
+    }
+}
+
+.glance{
+    height: 550px;
+    background-color: rgb(251, 236, 236);
+    display: block;
+}
+.row-gl{
+    display: flex;
+    justify-content: center;
+}
+.col-gl1{
+    width: 400px;
+    margin: 120px;
+}
+
+.col-gl1 p{
+    font-size: 20px;
+    margin: 50x;
+    padding: 5px;
+}
+.col-gl1 button{
+    background-color: rgb(246, 44, 44);
+    margin: 20px 1px;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: none;
+}
+.col-gl2{
+    width: 400px;
+    height: 300px;
+    margin: 50px 50px;
+}
+
+.course-head{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    margin: 40px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.row-c{
+    display: flex;
+    display: block;
+}
+
+.col-c{
+    margin: 1px 20px;
+}
+
+.col-c img{
+    border-radius: 10px;
+    border: 1px solid red;
+    margin-right: 40px;
+}
+
+.col-c1{
+    margin: 30px 1px;
+}
+
+.col-c1 img{
+    border-radius: 10px;
+    border: 1px solid red;
+    margin-left: 35px;
+    margin-bottom: 30px;
+}
+
+.discount{
+    background-color: rgb(194, 235, 253);
+    height: 200px;
+    margin: 50px;
+}
+
+.course-head1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+    padding: 40px;
+}
+
+.dis-p{
+    padding: 1px 50px;
+}
+
+.row-fot{
+    display: flex;
+    justify-content: space-around;
+}
+
+.col-fot1 ul{
+    margin: 10px 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.col-fot1 ul li{
+    list-style: none;
+    margin: 3px 1px;
+}
+
+.col-fot2 ul li{
+    list-style: none;
+    margin: 3px 1px;
+}
+
+.col-fot3 ul li{
+    list-style: none;
+    margin: 3px 1px;
+}
+
+.col-fot4 ul li{
+    list-style: none;
+    margin: 3px 1px;
+}
+
+.col-fot1 ul li  a{
+    margin: 4px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.col-fot2 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 10px 10px;
+    font-size: 18px;
+}
+
+.col-fot3 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 10px 10px;
+    font-size: 18px;
+}
+
+.col-fot4 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 10px 10px;
+    font-size: 18px;
+}
+
+
+.col-fot2{
+    margin: 0px 10px;
+}
+
+.col-fot1 h1{
+    margin: 15px 0px;
+}
+
+.col-fot2 h1{
+    margin: 15px 0px;
+}
+
+.col-fot3 h1{
+    margin: 15px 0px;
+}
+
+.col-fot4 h1{
+    margin: 15px 0px;
+}
+
+.footer{
+    background-color: rgba(137, 5, 5, 0.788);
+    color: azure;
+    padding: 30px 5px;
+}
+
+.footer-end{
+    background-color: #CFCACA;
+}
+
+.footer-end p{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px;
+}
