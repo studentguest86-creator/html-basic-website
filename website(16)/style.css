@@ -311,3 +311,129 @@
     font-size: 20px;
     padding: 10px 0px;
 }
+
+
+.about{
+    padding: 20px 1px;
+    text-align: center;
+    background-color: #CDCACA;
+}
+
+.about-des{
+    font-size: 18px;
+    font-weight: 200;
+    margin: 20px 50px 20px;
+}
+
+.about-des p{
+    color: #565757;
+    line-height: 1.4;
+}
+
+.about-des p strong{
+    font-weight: 900;
+    color: black;
+    padding-bottom: 5px;
+}
+
+.about-des p b{
+    font-weight: 700;
+    color: rgb(69, 67, 67);
+}
+
+.train{
+    margin: 50px 50px;
+}
+
+.row-tr{
+    display: flex;
+}
+
+.col-tr1{
+    flex: 1;
+}
+
+.col-tr1 h2{
+    color: #606D87;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.col-tr1 p{
+    color: #434244;
+    font-size: 20px;
+    line-height: 2.5;
+}
+
+.col-tr1 p i{
+    margin-right: 5px;
+}
+
+.col-tr2{
+    flex: 1;
+    margin-bottom: 50px;
+}
+
+.col-tr2 h2{
+    color: #606D87;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.col-tr2 p{
+    color: #434244;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+.train .row-tr hr{
+    width: 30%;
+    border: 1px solid rgb(194, 184, 184);
+}
+
+.row{
+    display: flex;
+    padding: 30px;
+}
+
+.col1{
+    flex: 1;
+    margin-right: 50px;
+}
+
+.col2{
+    flex: 1;
+}
+
+.col2 input{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(196, 57, 57);
+    border-radius: 5px;
+}
+
+.col2  label{
+    margin: 10px 10px 0px 0px;
+    display: inline-block; 
+}
+
+.col2 textarea{
+    width: 80%;
+    height: 150px;
+     margin-bottom: 15px;
+    border: 1px solid rgb(196, 57, 57);
+    border-radius: 5px;
+}
+
+.col2 button{
+    padding: 10px 20px ;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+
+

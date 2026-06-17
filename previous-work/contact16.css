@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    padding: 30px;
+}
+
+.col1{
+    flex: 1;
+    margin-right: 50px;
+}
+
+.col2{
+    flex: 1;
+}
+
+.col2 input{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(196, 57, 57);
+    border-radius: 5px;
+}
+
+.col2  label{
+    margin: 10px 10px 0px 0px;
+    display: inline-block; 
+}
+
+.col2 textarea{
+    width: 80%;
+    height: 150px;
+     margin-bottom: 15px;
+    border: 1px solid rgb(196, 57, 57);
+    border-radius: 5px;
+}
+
+.col2 button{
+    padding: 10px 20px ;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: brown;
+    color: aliceblue;
+}
+
