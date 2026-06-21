@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row-nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3C5967;
+    flex-wrap: wrap;
+}
+
+.col-h1 img{
+    height: 100px;
+    width: 100px;
+}
+
+.col-h3 button{
+    background-color: #DEB763;
+    color: #405C67;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.col-h2 ul li{
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.col-h2 ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #E6EAEC;
+}
+
+.col-h2{
+    margin-top: 30px;
+}
+
+/* footer */
+
+.footer{
+    background-color: #3C5967;
+}
+
+.fot1-h4{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 300px;
+    margin-bottom: 10px;
+}
+
+.fot1-h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.row-fot{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.col-f2 button{
+    background-color: #DEB763;
+    color: #f8f9fa;
+    padding: 40px 70px;
+    border-radius: 20px;
+    margin-top: 60px;
+    font-size: 24px;
+}
+
+.head-p h1{
+    font-size: 40px;
+    text-align: center;
+    color: #44606D;
+    font-weight: 800;
+    margin: 30px 0px;
+}
+
+.head-p p{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-weight: 100;
+    margin: 30px 0px;
+    padding: 00px 100px;
+    line-height: 2;
+    font-size: 22px;
+}
+
+.row-ani{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+}
+
+.col-ani h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.col-ani p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.col-ani{
+    text-align: center;
+}
+
+.col-ani button{
+    border: none;
+    color: rgb(45, 45, 230);
+}
+
+.animal{
+    margin: 30px;
+}
+
+.event{
+    margin: 70px 0px;
+    text-align: center;
+}
+
+.ev-1 h1{
+    font-size: 50px;
+    margin: 25px 0px;
+    font-weight: bold;
+    color: #DEB763;
+}
+
+.ev-1 h2{
+    color: #3C5967;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.ev-1 h3{
+    color: #DEB763;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.ev-1 p{
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+.animal-help{
+    background: url('pic/goat.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    margin: 50px 0px;
+}
+
+.help{
+    text-align: center;
+    color: #ffff;
+    padding-top: 220px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.rea{
+    margin: 50px 0px;
+    text-align: center;
+}
+
+.rea-head{
+    color: #DFBC70;
+    font-size: 60px;
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.hare-back{
+    background: url('pic/hare1.webp');
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+.hare-h1{
+    font-size: 60px;
+    color: #ffff;
+    text-align: right;
+    padding: 40px 50px;
+}
+.hare-p{
+    font-size: 30px;
+    color: #ffff;
+    text-align: right;
+    padding: 40px 50px;
+    font-weight: bold;
+
+}
+
+
+
+
+
