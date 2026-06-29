@@ -106,7 +106,7 @@ empty tag: image tag, br tag, input tag, hr tag
 
 
 
-
+Navbar, carousel, slider, gallery
 
 
 
