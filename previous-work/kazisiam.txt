@@ -102,14 +102,11 @@ empty tag: image tag, br tag, input tag, hr tag
 
 
 6th class(15-6)
-
-
-
-
 Navbar, carousel, slider, gallery
 
 
-
+breakpoint
+ are the building blocks of resposive design
 
 
 

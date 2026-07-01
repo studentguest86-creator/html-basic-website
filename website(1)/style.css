@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head-title{
+    background-color: rgb(93, 15, 15);
+    color: aliceblue;
+}
+
+.do-head{
+    text-align: center;
+    padding: 20px;
+}
+
+.do-h3{
+    text-align: center;
+}
+
+.row-fot{
+    display: flex;
+}
+.col-fot1{
+    flex: 1;
+    margin-left: 30px;
+}
+.col-fot2{
+    flex: 1;
+}
+.col-fot3{
+    flex: 1;
+}
+
+.fot-head{
+    padding: 20px;
+}
+
+.carto-p{
+    margin: 50px 100px;
+}
+
+.spoke-p{
+    text-align: center;
+}
+
+.spoke-p img{
+    align-items: center;
+    margin: auto;
+}
+
+.do-col-spoke{
+    background-color: rgb(136, 112, 112);
+    margin-top: 50px;
+}
